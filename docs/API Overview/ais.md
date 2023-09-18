@@ -31,5 +31,5 @@ Pagination is supported on GET /accounts/{AccountId}/transactions end point with
 
 Please note:  
 - GET /transactions end point is not supported  
-- Currently we only provide 7-day transactions, but we are finalizing transactions for longer periods  
+ 
 
