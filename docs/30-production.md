@@ -15,9 +15,6 @@ Our production authorisation server uses the strict profile defined above and te
 ## Test accounts
 If you require test accounts please contact mailto: Customer.Services@zenith-bank.co.uk
 
-## BELOW LINE TO TEST TEH AMENDMENT
-If you need further support please reach out to lawrence.olesin@zenith-bank.co.uk
-
 ## Fall back channel
 Zenith Bank’s MCI acts as a fall back channel in the event that open banking api’s are unavailable. The MCI enables a Third Party Provider (TPP) to access any of Zenith Bank’s Payment Service User (PSU) payment accounts via a browser based access channel.
 
